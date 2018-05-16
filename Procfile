@@ -1,0 +1,1 @@
+web: java -jar target/micro-start-1.0.jar

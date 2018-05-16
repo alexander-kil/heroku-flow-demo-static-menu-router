@@ -1,0 +1,5 @@
+{
+  "name": "Vaadin Flow Demo <static-menu-router> in Heroku ENV",
+  "description": "Vaadin Flow Demo <static-menu-router> in Heroku ENV",
+  "addons": [ "heroku-postgresql" ]
+}
